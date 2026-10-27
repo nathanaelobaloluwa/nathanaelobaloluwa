@@ -28,12 +28,8 @@ const nathanael = {
     "Web Applications"
   ],
   languages: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java"
+    "HTML", "CSS", "JavaScript",
+    "TypeScript", "Python", "Java"
   ],
   frameworks: ["React"],
   databases: ["MongoDB", "Firebase"],
@@ -133,7 +129,17 @@ My current focus is to keep learning, apply what I learn to real projects, and g
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=nathanaelobaloluwa&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=7ee787&fire=ffa657&currStreakLabel=7ee787&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathanaelobaloluwa&bg_color=0d1117&color=58a6ff&line=7ee787&point=ffa657&area=true&hide_border=true&area_color=1a3a1a" alt="GitHub contribution activity graph" />
+</div>
+
+---
+
+```bash
+➜  nathanael@github ~ git log --activity-graph
+```
+
+<div align="center">
+
+[![Nathanael's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nathanaelobaloluwa&bg_color=0d1117&color=58a6ff&line=7ee787&point=ffa657&area=true&hide_border=true&area_color=1a3a1a)](https://github.com/nathanaelobaloluwa)
 
 </div>
 
